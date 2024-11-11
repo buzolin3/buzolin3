@@ -1,11 +1,8 @@
 ## Oii meu nome é Cauan Buzolin! sou programador e designer
 
-- 📌 Especializações: Front-End, Design, Marketing-Digital
+- 📌 Especializações: Front-End, Design, Marketing-Digital, Construct 3, Unreal Engine 5
 - ⭐ Nivel Inglês: Avançado
-- 📚 Cursando: Alura, English Live
-- 📝 Aprendendo: Back-End, Mobile
 - 🎉 Idade: 19 anos
-- 🎥 Streamer da twitch
 - 📍 Taquaritinga / SP
 
 <div style="display: inline_block"><br>
