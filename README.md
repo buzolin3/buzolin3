@@ -1,9 +1,9 @@
-## Oii meu nome é Cauan Buzolin! sou programador e designer
+## Oii meu nome é Cauan Buzolin! sou programador e desenvolvedor de jogos 
 
-- 📌 Especializações: Front-End, Design, Marketing-Digital, Construct 3, Unreal Engine 5
+- ⚙️ Desenvolvedor de jogos pela Unreal Engine 5
+- 📌 Especializações de programação: Front-End, Back-End, Banco de dados e Design, Construct 3, Unreal Engine 5
 - ⭐ Nivel Inglês: Avançado
-- 🎉 Idade: 19 anos
-- 📍 Taquaritinga / SP
+- 🎉 Idade: 22 anos
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
