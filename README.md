@@ -17,8 +17,7 @@
 ##
 
 <div> 
-  <a href="[https://www.youtube.com/channel/UCT9NX_vbIbrYIyE0kG6wQ9A](https://www.youtube.com/@BuzolinStudios)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="[[https://www.youtube.com/channel/UCT9NX_vbIbrYIyE0kG6wQ9A](https://www.youtube.com/@BuzolinStudios)" target="_blank](https://store.steampowered.com/app/4230660/Protocol_Nightmare/)"><img src="[https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank](https://icon-icons.com/pt/icone/steam-logo/206670)"></a>
+  <a href="https://www.youtube.com/@BuzolinStudios" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/buzolin3" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:cauanbuzolin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cauan-buzolin-aa01a626a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
