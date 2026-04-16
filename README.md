@@ -4,6 +4,7 @@
 - 🎮 CEO da BuzolinStudios
 - 🎮 Jogo publicado na steam - Protocol Nightmare
 - 📌 Especializações de programação: Front-End, Back-End, Banco de dados e Design, Construct 3, Unreal Engine 5
+- 🎓 Formado em Análise e Desenvolvimento de Software
 - ⭐ Nivel Inglês: Avançado
 - 🎉 Idade: 22 anos
 
@@ -18,6 +19,8 @@
 
 <div> 
   <a href="https://www.youtube.com/@BuzolinStudios" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/buzolinstudio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://store.steampowered.com/app/4230660/Protocol_Nightmare/" target="_blank"><img src="https://img.icons8.com/?size=100&id=rY0tVPCr9Fer&format=png&color=000000" target="_blank"></a>
   <a href="https://instagram.com/buzolin3" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:cauanbuzolin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cauan-buzolin-aa01a626a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
